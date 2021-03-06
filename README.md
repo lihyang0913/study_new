@@ -1,2 +1,2 @@
-# study_new
+# tutorial
 tutorial repository
